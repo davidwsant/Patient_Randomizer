@@ -1,0 +1,26 @@
+﻿patient id,Medication 1,Medication 2
+1,Levetiracetam,Oxcarbazepine
+2,Phenobarbital,Oxcarbazepine
+3,Oxcarbazepine,Levetiracetam
+4,Phenobarbital,Levetiracetam
+5,Levetiracetam,Oxcarbazepine
+6,Levetiracetam,Oxcarbazepine
+7,Levetiracetam,Oxcarbazepine
+8,Phenobarbital,Oxcarbazepine
+9,Levetiracetam,Oxcarbazepine
+10,Levetiracetam,Phenytoin
+11,Levetiracetam,Lamotrigine
+12,Oxcarbazepine,Levetiracetam
+13,Levetiracetam,Oxcarbazepine
+14,Oxcarbazepine,Levetiracetam
+15,Phenobarbital,Levetiracetam
+16,Oxcarbazepine,Levetiracetam
+17,Oxcarbazepine,Levetiracetam
+18,Levetiracetam,Phenytoin
+19,Levetiracetam,Phenytoin
+20,Levetiracetam,Oxcarbazepine
+21,Phenobarbital,Oxcarbazepine
+22,Levetiracetam,Phenytoin
+23,Levetiracetam,Oxcarbazepine
+24,Phenobarbital,Levetiracetam
+25,Phenytoin,Cannibidiol
